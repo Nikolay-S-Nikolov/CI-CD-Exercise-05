@@ -1,0 +1,86 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# Uncomment if you have tasks that create the `out` folder
+# out/
+
+# VS Code directories
+.vscode/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Coverlet coverage results
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# TFS
+$tf/
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure Pipelines
+.azure-pipelines/
+
+# Global JetBrains IDE files
+.idea/
+*.sln.iml
+
+# Local NuGet packages
+*.nupkg
+*.snupkg
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Node.js if applicable
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# Windows Thumbnail cache
+Thumbs.db
+
+# Recycle Bin used by VS
+*.vs/
+
+# Optional: Ignore the entire .vs folder
+.vs/
